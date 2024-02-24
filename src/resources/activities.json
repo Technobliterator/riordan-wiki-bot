@@ -1,0 +1,2306 @@
+{
+  "_id": "5d33456a41a7970d001a0f5c",
+  "list": [
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>",
+      "imageURL": "https://cdn.discordapp.com/attachments/602174955420909589/602175355209383937/falsename.jpg",
+      "answer": "frank zhang",
+      "correctResponse": "answered the question correctly! They received 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer his full name",
+      "drachma": {
+        "$numberInt": "200"
+      },
+      "exp": {
+        "$numberInt": "200"
+      }
+    },
+    {
+      "question": "Here's a trivia question! Answer it by typing `/guess [answer]`. The first person to guess correctly will receive 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/VZwFOjf.png",
+      "answer": "pompona",
+      "correctResponse": "answered the question correctly! They received 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "500"
+      },
+      "exp": {
+        "$numberInt": "500"
+      }
+    },
+    {
+      "question": "Here's a trivia question! Answer it by typing `/guess [answer]`. The first person to guess correctly will receive 300<:drachma:511985789522018305> and 300<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/W8FgTcv.png",
+      "answer": "porky",
+      "correctResponse": "answered the question correctly! They received 300<:drachma:511985789522018305> and 300<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "300"
+      },
+      "exp": {
+        "$numberInt": "300"
+      }
+    },
+    {
+      "question": "Here's a trivia question! Answer it by typing `/guess [answer]`. The first person to guess correctly will receive 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/C4a2WFC.png",
+      "answer": "phlegethon",
+      "correctResponse": "answered the question correctly! They received 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "200"
+      },
+      "exp": {
+        "$numberInt": "200"
+      }
+    },
+    {
+      "question": "Here's a trivia question! Answer it by typing `/guess [answer]`. The first person to guess correctly will receive 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/Y8Ei1GC.png",
+      "answer": "cocytus",
+      "correctResponse": "answered the question correctly! They received 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "200"
+      },
+      "exp": {
+        "$numberInt": "200"
+      }
+    },
+    {
+      "question": "Here's a trivia question! Answer it by typing `/guess [answer]`. The first person to guess correctly will receive 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/OmWFM5O.png",
+      "answer": "acheron",
+      "correctResponse": "answered the question correctly! They received 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "200"
+      },
+      "exp": {
+        "$numberInt": "200"
+      }
+    },
+    {
+      "question": "Here's a trivia question! Answer it by typing `/guess [answer]`. The first person to guess correctly will receive 350<:drachma:511985789522018305> and 350<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/01QTwIq.png",
+      "answer": "tartarus",
+      "correctResponse": "answered the question correctly! They received 350<:drachma:511985789522018305> and 350<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "350"
+      },
+      "exp": {
+        "$numberInt": "350"
+      }
+    },
+    {
+      "question": "Here's a trivia question! Answer it by typing `/guess [answer]`. The first person to guess correctly will receive 450<:drachma:511985789522018305> and 450<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/86pkqwg.png",
+      "answer": "cassiopeia",
+      "correctResponse": "answered the question correctly! They received 450<:drachma:511985789522018305> and 450<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "450"
+      },
+      "exp": {
+        "$numberInt": "450"
+      }
+    },
+    {
+      "question": "Here's a trivia question! Answer it by typing `/guess [answer]`. The first person to guess correctly will receive 650<:drachma:511985789522018305> and 650<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/49LmiRZ.png",
+      "answer": "chrysaor",
+      "correctResponse": "answered the question correctly! They received 650<:drachma:511985789522018305> and 650<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "650"
+      },
+      "exp": {
+        "$numberInt": "650"
+      }
+    },
+    {
+      "question": "Here's a trivia question! Answer it by typing `/guess [answer]`. The first person to guess correctly will receive 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/gnTj2oX.png",
+      "answer": "purple",
+      "correctResponse": "answered the question correctly! They received 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "200"
+      },
+      "exp": {
+        "$numberInt": "200"
+      }
+    },
+    {
+      "question": "Here's a trivia question! Answer it by typing `/guess [answer]`. The first person to guess correctly will receive 1000<:drachma:511985789522018305> and 1000<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/ACgBQmN.png",
+      "answer": "nymphaeum",
+      "correctResponse": "answered the question correctly! They received 1000<:drachma:511985789522018305> and 1000<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "1000"
+      },
+      "exp": {
+        "$numberInt": "1000"
+      }
+    },
+    {
+      "question": "Here's a trivia question! Answer it by typing `/guess [answer]`. The first person to guess correctly will receive 1500<:drachma:511985789522018305> and 1500<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/v8ETDmD.png",
+      "answer": "halcyon green",
+      "correctResponse": "answered the question correctly! They received 1500<:drachma:511985789522018305> and 1500<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect. Tip: You need to answer their full name",
+      "drachma": {
+        "$numberInt": "1500"
+      },
+      "exp": {
+        "$numberInt": "1500"
+      }
+    },
+    {
+      "question": "Here's a trivia question! Answer it by typing `/guess [answer]`. The first person to guess correctly will receive 800<:drachma:511985789522018305> and 800<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/8nqGfAv.png",
+      "answer": "julia",
+      "correctResponse": "answered the question correctly! They received 800<:drachma:511985789522018305> and 800<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "800"
+      },
+      "exp": {
+        "$numberInt": "800"
+      }
+    },
+    {
+      "question": "Here's a trivia question! Answer it by typing `/guess [answer]`. The first person to guess correctly will receive 3500<:drachma:511985789522018305> and 3500<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/zgxG7SR.png",
+      "answer": "329.6",
+      "correctResponse": "answered the question correctly! They received 3500<:drachma:511985789522018305> and 3500<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect. Tip: You dont need to add the 'Hz' after the answer",
+      "drachma": {
+        "$numberInt": "3500"
+      },
+      "exp": {
+        "$numberInt": "3500"
+      }
+    },
+    {
+      "question": "Here's a trivia question! Answer it by typing `/guess [answer]`. The first person to guess correctly will receive 400<:drachma:511985789522018305> and 400<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/ZIw3x0V.png",
+      "answer": "bellerophon",
+      "correctResponse": "answered the question correctly! They received 400<:drachma:511985789522018305> and 400<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "400"
+      },
+      "exp": {
+        "$numberInt": "400"
+      }
+    },
+    {
+      "question": "Here's a trivia question! Answer it by typing `/guess [answer]`. The first person to guess correctly will receive 400<:drachma:511985789522018305> and 400<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/ZzvZH5X.png",
+      "answer": "bellerophon",
+      "correctResponse": "answered the question correctly! They received 400<:drachma:511985789522018305> and 400<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "400"
+      },
+      "exp": {
+        "$numberInt": "400"
+      }
+    },
+    {
+      "question": "Here's a trivia question! Answer it by typing `/guess [answer]`. The first person to guess correctly will receive 2000<:drachma:511985789522018305> and 2000<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/tVy6TmZ.png",
+      "answer": "30,31,75,12",
+      "correctResponse": "answered the question correctly! They received 2000<:drachma:511985789522018305> and 2000<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect. Tip: Do not add spaces after commas",
+      "drachma": {
+        "$numberInt": "2000"
+      },
+      "exp": {
+        "$numberInt": "2000"
+      }
+    },
+    {
+      "question": "Here's a trivia question! Answer it by typing `/guess [answer]`. The first person to guess correctly will receive 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/UOo868C.png",
+      "answer": "atlanta",
+      "correctResponse": "answered the question correctly! They received 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "500"
+      },
+      "exp": {
+        "$numberInt": "500"
+      }
+    },
+    {
+      "question": "Here's a trivia question! Answer it by typing `/guess [answer]`. The first person to guess correctly will receive 1500<:drachma:511985789522018305> and 1500<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/TRvA48j.png",
+      "answer": "ichthyocentaurs",
+      "correctResponse": "answered the question correctly! They received 1500<:drachma:511985789522018305> and 1500<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "1500"
+      },
+      "exp": {
+        "$numberInt": "1500"
+      }
+    },
+    {
+      "question": "Here's a trivia question! Answer it by typing `/guess [answer]`. The first person to guess correctly will receive 600<:drachma:511985789522018305> and 600<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/HEp5mEx.png",
+      "answer": "khepri",
+      "correctResponse": "answered the question correctly! They received 600<:drachma:511985789522018305> and 600<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "600"
+      },
+      "exp": {
+        "$numberInt": "600"
+      }
+    },
+    {
+      "question": "Here's a trivia question! Answer it by typing `/guess [answer]`. The first person to guess correctly will receive 600<:drachma:511985789522018305> and 600<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/6z6b2Q1.png",
+      "answer": "khnum",
+      "correctResponse": "answered the question correctly! They received 600<:drachma:511985789522018305> and 600<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "600"
+      },
+      "exp": {
+        "$numberInt": "600"
+      }
+    },
+    {
+      "question": "Help! Percy is stuck in the labyrinth and needs your help to escape! He promises to give 500 <:drachma:511985789522018305> to the first person who guides him through the correct path. Guess the path by typing `/guess [answer].`",
+      "imageURL": "https://i.imgur.com/096ep9c.png",
+      "answer": "a",
+      "correctResponse": "guided Percy! They received their 500<:drachma:511985789522018305>!",
+      "wrongResponse": "Whoops! Thats the wrong path",
+      "drachma": {
+        "$numberInt": "500"
+      },
+      "exp": {
+        "$numberInt": "0"
+      }
+    },
+    {
+      "question": "Help! Percy is stuck in the labyrinth and needs your help to escape! He promises to give 500 <:drachma:511985789522018305> to the first person who guides him through the correct path. Guess the path by typing `/guess [answer].`",
+      "imageURL": "https://i.imgur.com/LSAIifw.png",
+      "answer": "b",
+      "correctResponse": "guided Percy! They received their 500<:drachma:511985789522018305>!",
+      "wrongResponse": "Whoops! Thats the wrong path",
+      "drachma": {
+        "$numberInt": "500"
+      },
+      "exp": {
+        "$numberInt": "0"
+      }
+    },
+    {
+      "question": "In the prophecy below, one line is missing. Complete the prophecy by typing out the missing line by doing `/guess [missing line]`. The first person to guess correctly will receive 3000<:drachma:511985789522018305> and 3000<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/RRFEby7.png",
+      "answer": "ere new moon rises o'er the devil's mount",
+      "correctResponse": "completed the prophecy! They received 3000<:drachma:511985789522018305> and 3000<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: Punctuation at the end of the line is not necessary",
+      "drachma": {
+        "$numberInt": "3000"
+      },
+      "exp": {
+        "$numberInt": "3000"
+      }
+    },
+    {
+      "question": "In the prophecy below, one line is missing. Complete the prophecy by typing out the missing line by doing `/guess [missing line]`. The first person to guess correctly will receive 3000<:drachma:511985789522018305> and 3000<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/SrTAiXV.png",
+      "answer": "and wrest from him the crossword speaker's breath",
+      "correctResponse": "completed the prophecy! They received 3000<:drachma:511985789522018305> and 3000<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: Punctuation at the end of the line is not necessary",
+      "drachma": {
+        "$numberInt": "3000"
+      },
+      "exp": {
+        "$numberInt": "3000"
+      }
+    },
+    {
+      "question": "In the prophecy below, one line is missing. Complete the prophecy by typing out the missing line by doing `/guess [missing line]`. The first person to guess correctly will receive 3000<:drachma:511985789522018305> and 3000<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/5znAi2e.png",
+      "answer": "the cloven guide alone the way does know",
+      "correctResponse": "completed the prophecy! They received 3000<:drachma:511985789522018305> and 3000<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: Punctuation at the end of the line is not necessary",
+      "drachma": {
+        "$numberInt": "3000"
+      },
+      "exp": {
+        "$numberInt": "3000"
+      }
+    },
+    {
+      "question": "In the prophecy below, one line is missing. Complete the prophecy by typing out the missing line by doing `/guess [missing line]`. The first person to guess correctly will receive 3000<:drachma:511985789522018305> and 3000<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/C8b1pnY.jpg",
+      "answer": "upon a three seater",
+      "correctResponse": "completed the prophecy! They received 3000<:drachma:511985789522018305> and 3000<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: Punctuation at the end of the line is not necessary",
+      "drachma": {
+        "$numberInt": "3000"
+      },
+      "exp": {
+        "$numberInt": "3000"
+      }
+    },
+    {
+      "question": "In the prophecy below, one line is missing. Complete the prophecy by typing out the missing line by doing `/guess [missing line]`. The first person to guess correctly will receive 3000<:drachma:511985789522018305> and 3000<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/yK3vWcZ.jpg",
+      "answer": "strike the hue",
+      "correctResponse": "completed the prophecy! They received 3000<:drachma:511985789522018305> and 3000<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: Punctuation at the end of the line is not necessary",
+      "drachma": {
+        "$numberInt": "3000"
+      },
+      "exp": {
+        "$numberInt": "3000"
+      }
+    },
+    {
+      "question": "In the prophecy below, one line is missing. Complete the prophecy by typing out the missing line by doing `/guess [missing line]`. The first person to guess correctly will receive 3000<:drachma:511985789522018305> and 3000<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/cYU5M1L.jpg",
+      "answer": "twins snuff out the angel's breath",
+      "correctResponse": "completed the prophecy! They received 3000<:drachma:511985789522018305> and 3000<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: Punctuation at the end of the line is not necessary",
+      "drachma": {
+        "$numberInt": "3000"
+      },
+      "exp": {
+        "$numberInt": "3000"
+      }
+    },
+    {
+      "question": "In the prophecy below, one line is missing. Complete the prophecy by typing out the missing line by doing `/guess [missing line]`. The first person to guess correctly will receive 3000<:drachma:511985789522018305> and 3000<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/cHA1H56r.jpg",
+      "answer": "the tow'r of nero two alone ascend",
+      "correctResponse": "completed the prophecy! They received 3000<:drachma:511985789522018305> and 3000<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: Punctuation at the end of the line is not necessary",
+      "drachma": {
+        "$numberInt": "3000"
+      },
+      "exp": {
+        "$numberInt": "3000"
+      }
+    },
+    {
+      "question": "In the prophecy below, one line is missing. Complete the prophecy by typing out the missing line by doing `/guess [missing line]`. The first person to guess correctly will receive 3000<:drachma:511985789522018305> and 3000<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/L6QhxeQ.png",
+      "answer": "you shall find what you seek and make it your own",
+      "correctResponse": "completed the prophecy! They received 3000<:drachma:511985789522018305> and 3000<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: Punctuation at the end of the line is not necessary",
+      "drachma": {
+        "$numberInt": "3000"
+      },
+      "exp": {
+        "$numberInt": "3000"
+      }
+    },
+    {
+      "question": "In the prophecy below, one line is missing. Complete the prophecy by typing out the missing line by doing `/guess [missing line]`. The first person to guess correctly will receive 3000<:drachma:511985789522018305> and 3000<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/zFSthCV.png",
+      "answer": "the bane of olympus shows the trail",
+      "correctResponse": "completed the prophecy! They received 3000<:drachma:511985789522018305> and 3000<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: Punctuation at the end of the line is not necessary",
+      "drachma": {
+        "$numberInt": "3000"
+      },
+      "exp": {
+        "$numberInt": "3000"
+      }
+    },
+    {
+      "question": "In the prophecy below, one line is missing. Complete the prophecy by typing out the missing line by doing `/guess [missing line]`. The first person to guess correctly will receive 3000<:drachma:511985789522018305> and 3000<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/YyFZxcg.png",
+      "answer": "destroy with a hero's final breath",
+      "correctResponse": "completed the prophecy! They received 3000<:drachma:511985789522018305> and 3000<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: Punctuation at the end of the line is not necessary",
+      "drachma": {
+        "$numberInt": "3000"
+      },
+      "exp": {
+        "$numberInt": "3000"
+      }
+    },
+    {
+      "question": "In the prophecy below, one line is missing. Complete the prophecy by typing out the missing line by doing `/guess [missing line]`. The first person to guess correctly will receive 3000<:drachma:511985789522018305> and 3000<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/TazEBkr.png",
+      "answer": "and death unleash, through hera's rage",
+      "correctResponse": "completed the prophecy! They received 3000<:drachma:511985789522018305> and 3000<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: Punctuation at the end of the line is not necessary",
+      "drachma": {
+        "$numberInt": "3000"
+      },
+      "exp": {
+        "$numberInt": "3000"
+      }
+    },
+    {
+      "question": "In the prophecy below, one line is missing. Complete the prophecy by typing out the missing line by doing `/guess [missing line]`. The first person to guess correctly will receive 3000<:drachma:511985789522018305> and 3000<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/hNDEEAE.png",
+      "answer": "and see the world in endless sleep",
+      "correctResponse": "completed the prophecy! They received 3000<:drachma:511985789522018305> and 3000<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: Punctuation at the end of the line is not necessary",
+      "drachma": {
+        "$numberInt": "3000"
+      },
+      "exp": {
+        "$numberInt": "3000"
+      }
+    },
+    {
+      "question": "In the prophecy below, one line is missing. Complete the prophecy by typing out the missing line by doing `/guess [missing line]`. The first person to guess correctly will receive 3000<:drachma:511985789522018305> and 3000<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/FCkhN4E.png",
+      "answer": "and foes bear arms to the doors of death",
+      "correctResponse": "completed the prophecy! They received 3000<:drachma:511985789522018305> and 3000<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: Punctuation at the end of the line is not necessary",
+      "drachma": {
+        "$numberInt": "3000"
+      },
+      "exp": {
+        "$numberInt": "3000"
+      }
+    },
+    {
+      "question": "In the prophecy below, one line is missing. Complete the prophecy by typing out the missing line by doing `/guess [missing line]`. The first person to guess correctly will receive 3000<:drachma:511985789522018305> and 3000<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/YiOroAQ.png",
+      "answer": "and you shall fail to save what matters most, in the end",
+      "correctResponse": "completed the prophecy! They received 3000<:drachma:511985789522018305> and 3000<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: Punctuation at the end of the line is not necessary",
+      "drachma": {
+        "$numberInt": "3000"
+      },
+      "exp": {
+        "$numberInt": "3000"
+      }
+    },
+    {
+      "question": "Here is a riddle from *The Burning Maze*! Guess the answer to the riddle by typing `/guess [answer]`. The first person to answer it correctly will receive 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/JkypUFN.png",
+      "answer": "god",
+      "correctResponse": "solved the riddle correctly! They received 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "500"
+      },
+      "exp": {
+        "$numberInt": "500"
+      }
+    },
+    {
+      "question": "Here is a riddle from *The Burning Maze*! Guess the answer to the riddle by typing `/guess [answer]`. The first person to answer it correctly will receive 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/joIBaqh.png",
+      "answer": "opened",
+      "correctResponse": "solved the riddle correctly! They received 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "500"
+      },
+      "exp": {
+        "$numberInt": "500"
+      }
+    },
+    {
+      "question": "Here is a riddle from *The Burning Maze*! Guess the answer to the riddle by typing `/guess [answer]`. The first person to answer it correctly will receive 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/yl3qIC1r.png",
+      "answer": "soundless",
+      "correctResponse": "solved the riddle correctly! They received 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "500"
+      },
+      "exp": {
+        "$numberInt": "500"
+      }
+    },
+    {
+      "question": "Here is a riddle from *The Burning Maze*! Guess the answer to the riddle by typing `/guess [answer]`. The first person to answer it correctly will receive 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/fNGzELZ.png",
+      "answer": "tarquin",
+      "correctResponse": "solved the riddle correctly! They received 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "500"
+      },
+      "exp": {
+        "$numberInt": "500"
+      }
+    },
+    {
+      "question": "Here is a riddle from *The Burning Maze*! Guess the answer to the riddle by typing `/guess [answer]`. The first person to answer it correctly will receive 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/DArY4Ve.png",
+      "answer": "tomb",
+      "correctResponse": "solved the riddle correctly! They received 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "500"
+      },
+      "exp": {
+        "$numberInt": "500"
+      }
+    },
+    {
+      "question": "Here is a riddle from *The Burning Maze*! Guess the answer to the riddle by typing `/guess [answer]`. The first person to answer it correctly will receive 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/72pxQWN.png",
+      "answer": "unless",
+      "correctResponse": "solved the riddle correctly! They received 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "500"
+      },
+      "exp": {
+        "$numberInt": "500"
+      }
+    },
+    {
+      "question": "Here is a riddle from *The Burning Maze*! Guess the answer to the riddle by typing `/guess [answer]`. The first person to answer it correctly will receive 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/gg4Bp28.png",
+      "answer": "yo",
+      "correctResponse": "solved the riddle correctly! They received 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "500"
+      },
+      "exp": {
+        "$numberInt": "500"
+      }
+    },
+    {
+      "question": "Here is a riddle from *The Burning Maze*! Guess the answer to the riddle by typing `/guess [answer]`. The first person to answer it correctly will receive 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/IFHgq60.png",
+      "answer": "apollo",
+      "correctResponse": "solved the riddle correctly! They received 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "500"
+      },
+      "exp": {
+        "$numberInt": "500"
+      }
+    },
+    {
+      "question": "Here is a riddle from *The Burning Maze*! Guess the answer to the riddle by typing `/guess [answer]`. The first person to answer it correctly will receive 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/2cc3clS.png",
+      "answer": "by",
+      "correctResponse": "solved the riddle correctly! They received 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "500"
+      },
+      "exp": {
+        "$numberInt": "500"
+      }
+    },
+    {
+      "question": "Here is a riddle from *The Burning Maze*! Guess the answer to the riddle by typing `/guess [answer]`. The first person to answer it correctly will receive 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/5tAMsVd.png",
+      "answer": "death",
+      "correctResponse": "solved the riddle correctly! They received 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "500"
+      },
+      "exp": {
+        "$numberInt": "500"
+      }
+    },
+    {
+      "question": "Here is a riddle from *The Burning Maze*! Guess the answer to the riddle by typing `/guess [answer]`. The first person to answer it correctly will receive 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/cYhmnFa.png",
+      "answer": "doorway",
+      "correctResponse": "solved the riddle correctly! They received 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "500"
+      },
+      "exp": {
+        "$numberInt": "500"
+      }
+    },
+    {
+      "question": "Here is a riddle from *The Burning Maze*! Guess the answer to the riddle by typing `/guess [answer]`. The first person to answer it correctly will receive 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/LTIzZao.png",
+      "answer": "faces",
+      "correctResponse": "solved the riddle correctly! They received 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "500"
+      },
+      "exp": {
+        "$numberInt": "500"
+      }
+    },
+    {
+      "question": "Here is a riddle from *The Burning Maze*! Guess the answer to the riddle by typing `/guess [answer]`. The first person to answer it correctly will receive 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>!",
+      "imageURL": "https://i.imgur.com/wwfmiHR.png",
+      "answer": "bellona's daughter",
+      "correctResponse": "solved the riddle correctly! They received 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: Dont forget the apostrophe",
+      "drachma": {
+        "$numberInt": "500"
+      },
+      "exp": {
+        "$numberInt": "500"
+      }
+    },
+    {
+      "question": "A picture has been broken up and scattered! Piece it up together before anyone else does for a reward of 2500<:drachma:511985789522018305>!\n\n**How to answer:** Write the answer in the format `/guess A_B_C_D_E_F_` where the blank after a particular letter must be replaced with the number of the tile in which the box marked with said letter must go into.\n\nFor example, suppose if the tile marked 1 goes into the box marked A, tile 2 to box B, tile 3 to box C, and so on, you would type `/guess A1B2C3D4E5F6`. Case sensitivity doesn't matter.",
+      "imageURL": "https://i.imgur.com/CTZvnRP.png",
+      "answer": "a2b5c4d6e1f3",
+      "correctResponse": "solved the puzzle correctly! They received their 2500<:drachma:511985789522018305>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: Did you read the instructions correctly",
+      "drachma": {
+        "$numberInt": "2500"
+      },
+      "exp": {
+        "$numberInt": "0"
+      }
+    },
+    {
+      "question": "A picture has been broken up and scattered! Piece it up together before anyone else does for a reward of 2500<:drachma:511985789522018305>!\n\n**How to answer:** Write the answer in the format `/guess A_B_C_D_E_F_` where the blank after a particular letter must be replaced with the number of the tile in which the box marked with said letter must go into.\n\nFor example, suppose if the tile marked 1 goes into the box marked A, tile 2 to box B, tile 3 to box C, and so on, you would type `/guess A1B2C3D4E5F6`. Case sensitivity doesn't matter.",
+      "imageURL": "https://i.imgur.com/JO7ziy4.png",
+      "answer": "a6b1c5d4e2f3",
+      "correctResponse": "solved the puzzle correctly! They received their 2500<:drachma:511985789522018305>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: Did you read the instructions correctly",
+      "drachma": {
+        "$numberInt": "2500"
+      },
+      "exp": {
+        "$numberInt": "0"
+      }
+    },
+    {
+      "question": "A picture has been broken up and scattered! Piece it up together before anyone else does for a reward of 2500<:drachma:511985789522018305>!\n\n**How to answer:** Write the answer in the format `/guess A_B_C_D_E_F_` where the blank after a particular letter must be replaced with the number of the tile in which the box marked with said letter must go into.\n\nFor example, suppose if the tile marked 1 goes into the box marked A, tile 2 to box B, tile 3 to box C, and so on, you would type `/guess A1B2C3D4E5F6`. Case sensitivity doesn't matter.",
+      "imageURL": "https://i.imgur.com/OC6tfU9.png",
+      "answer": "a1b6c5d4e2f3",
+      "correctResponse": "solved the puzzle correctly! They received their 2500<:drachma:511985789522018305>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: Did you read the instructions correctly",
+      "drachma": {
+        "$numberInt": "2500"
+      },
+      "exp": {
+        "$numberInt": "0"
+      }
+    },
+    {
+      "question": "A picture has been broken up and scattered! Piece it up together before anyone else does for a reward of 2500<:drachma:511985789522018305>!\n\n**How to answer:** Write the answer in the format `/guess A_B_C_D_E_F_` where the blank after a particular letter must be replaced with the number of the tile in which the box marked with said letter must go into.\n\nFor example, suppose if the tile marked 1 goes into the box marked A, tile 2 to box B, tile 3 to box C, and so on, you would type `/guess A1B2C3D4E5F6`. Case sensitivity doesn't matter.",
+      "imageURL": "https://i.imgur.com/GcQoUqK.png",
+      "answer": "a1b6c2d3e5f4",
+      "correctResponse": "solved the puzzle correctly! They received their 2500<:drachma:511985789522018305>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: Did you read the instructions correctly",
+      "drachma": {
+        "$numberInt": "2500"
+      },
+      "exp": {
+        "$numberInt": "0"
+      }
+    },
+    {
+      "question": "A picture has been broken up and scattered! Piece it up together before anyone else does for a reward of 2500<:drachma:511985789522018305>!\n\n**How to answer:** Write the answer in the format `/guess A_B_C_D_E_F_` where the blank after a particular letter must be replaced with the number of the tile in which the box marked with said letter must go into.\n\nFor example, suppose if the tile marked 1 goes into the box marked A, tile 2 to box B, tile 3 to box C, and so on, you would type `/guess A1B2C3D4E5F6`. Case sensitivity doesn't matter.",
+      "imageURL": "https://i.imgur.com/Cs1whz2.png",
+      "answer": "a2b3c6d5e1f4",
+      "correctResponse": "solved the puzzle correctly! They received their 2500<:drachma:511985789522018305>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: Did you read the instructions correctly",
+      "drachma": {
+        "$numberInt": "2500"
+      },
+      "exp": {
+        "$numberInt": "0"
+      }
+    },
+    {
+      "question": "A picture has been broken up and scattered! Piece it up together before anyone else does for a reward of 2500<:drachma:511985789522018305>!\n\n**How to answer:** Write the answer in the format `/guess A_B_C_D_E_F_` where the blank after a particular letter must be replaced with the number of the tile in which the box marked with said letter must go into.\n\nFor example, suppose if the tile marked 1 goes into the box marked A, tile 2 to box B, tile 3 to box C, and so on, you would type `/guess A1B2C3D4E5F6`. Case sensitivity doesn't matter.",
+      "imageURL": "https://i.imgur.com/cZfeAFk.png",
+      "answer": "a5b3c1d2e6f4",
+      "correctResponse": "solved the puzzle correctly! They received their 2500<:drachma:511985789522018305>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: Did you read the instructions correctly",
+      "drachma": {
+        "$numberInt": "2500"
+      },
+      "exp": {
+        "$numberInt": "0"
+      }
+    },
+    {
+      "question": "A picture has been broken up and scattered! Piece it up together before anyone else does for a reward of 2500<:drachma:511985789522018305>!\n\n**How to answer:** Write the answer in the format `/guess A_B_C_D_E_F_` where the blank after a particular letter must be replaced with the number of the tile in which the box marked with said letter must go into.\n\nFor example, suppose if the tile marked 1 goes into the box marked A, tile 2 to box B, tile 3 to box C, and so on, you would type `/guess A1B2C3D4E5F6`. Case sensitivity doesn't matter.",
+      "imageURL": "https://i.imgur.com/43KooUa.png",
+      "answer": "a5b3c6d1e4f2",
+      "correctResponse": "solved the puzzle correctly! They received their 2500<:drachma:511985789522018305>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: Did you read the instructions correctly",
+      "drachma": {
+        "$numberInt": "2500"
+      },
+      "exp": {
+        "$numberInt": "0"
+      }
+    },
+    {
+      "question": "A picture has been broken up and scattered! Piece it up together before anyone else does for a reward of 2500<:drachma:511985789522018305>!\n\n**How to answer:** Write the answer in the format `/guess A_B_C_D_E_F_` where the blank after a particular letter must be replaced with the number of the tile in which the box marked with said letter must go into.\n\nFor example, suppose if the tile marked 1 goes into the box marked A, tile 2 to box B, tile 3 to box C, and so on, you would type `/guess A1B2C3D4E5F6`. Case sensitivity doesn't matter.",
+      "imageURL": "https://i.imgur.com/iYvFOSJ.png",
+      "answer": "a3b5c1d6e2f4",
+      "correctResponse": "solved the puzzle correctly! They received their 2500<:drachma:511985789522018305>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: Did you read the instructions correctly",
+      "drachma": {
+        "$numberInt": "2500"
+      },
+      "exp": {
+        "$numberInt": "0"
+      }
+    },
+    {
+      "question": "A picture has been broken up and scattered! Piece it up together for before anyone else does a reward of 2500<:drachma:511985789522018305>!\n\n**How to answer:** Write the answer in the format `/guess A_B_C_D_E_F_` where the blank after a particular letter must be replaced with the number of the tile in which the box marked with said letter must go into.\n\nFor example, suppose if the tile marked 1 goes into the box marked A, tile 2 to box B, tile 3 to box C, and so on, you would type `/guess A1B2C3D4E5F6`. Case sensitivity doesn't matter.",
+      "imageURL": "https://i.imgur.com/HGDm7NL.png",
+      "answer": "a2b5c1d6e4f3",
+      "correctResponse": "solved the puzzle correctly! They received their 2500<:drachma:511985789522018305>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: Did you read the instructions correctly",
+      "drachma": {
+        "$numberInt": "2500"
+      },
+      "exp": {
+        "$numberInt": "0"
+      }
+    },
+    {
+      "question": "Who uttered this quote in *The Mark of Athena*? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 800<:drachma:511985789522018305> and 800<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/GSREII8.png",
+      "answer": "jason grace",
+      "correctResponse": "answered the question correctly! They received 800<:drachma:511985789522018305> and 800<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer their full name",
+      "drachma": {
+        "$numberInt": "800"
+      },
+      "exp": {
+        "$numberInt": "800"
+      }
+    },
+    {
+      "question": "Who uttered this quote in *The Red Pyramid*? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/SFm0Dd7.png",
+      "answer": "sadie kane",
+      "correctResponse": "answered the question correctly! They received 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer their full name",
+      "drachma": {
+        "$numberInt": "500"
+      },
+      "exp": {
+        "$numberInt": "500"
+      }
+    },
+    {
+      "question": "Who uttered this quote in *The Red Pyramid*? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 550<:drachma:511985789522018305> and 550<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/QD2mV3r.png",
+      "answer": "amos kane",
+      "correctResponse": "answered the question correctly! They received 550<:drachma:511985789522018305> and 550<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer their full name",
+      "drachma": {
+        "$numberInt": "550"
+      },
+      "exp": {
+        "$numberInt": "550"
+      }
+    },
+    {
+      "question": "Who uttered this quote in *The Red Pyramid*? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 550<:drachma:511985789522018305> and 550<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/knNazhu.png",
+      "answer": "amos kane",
+      "correctResponse": "answered the question correctly! They received 550<:drachma:511985789522018305> and 550<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer their full name",
+      "drachma": {
+        "$numberInt": "550"
+      },
+      "exp": {
+        "$numberInt": "550"
+      }
+    },
+    {
+      "question": "Who uttered this quote in *The Red Pyramid*? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/IlIW1w0.png",
+      "answer": "sadie kane",
+      "correctResponse": "answered the question correctly! They received 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer their full name",
+      "drachma": {
+        "$numberInt": "500"
+      },
+      "exp": {
+        "$numberInt": "500"
+      }
+    },
+    {
+      "question": "Who uttered this quote in *The Red Pyramid*? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/eGhu6WF.png",
+      "answer": "bast",
+      "correctResponse": "answered the question correctly! They received 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "500"
+      },
+      "exp": {
+        "$numberInt": "500"
+      }
+    },
+    {
+      "question": "Who uttered this quote in *The Red Pyramid*? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/XgMJ5O4.png",
+      "answer": "sadie kane",
+      "correctResponse": "answered the question correctly! They received 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer their full name",
+      "drachma": {
+        "$numberInt": "500"
+      },
+      "exp": {
+        "$numberInt": "500"
+      }
+    },
+    {
+      "question": "Who uttered this quote in *The Red Pyramid*? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/7gxuE9b.png",
+      "answer": "carter kane",
+      "correctResponse": "answered the question correctly! They received 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer their full name",
+      "drachma": {
+        "$numberInt": "500"
+      },
+      "exp": {
+        "$numberInt": "500"
+      }
+    },
+    {
+      "question": "Who uttered this quote in *The Red Pyramid*? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/QVt66Ii.png",
+      "answer": "amos kane",
+      "correctResponse": "answered the question correctly! They received 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer their full name",
+      "drachma": {
+        "$numberInt": "500"
+      },
+      "exp": {
+        "$numberInt": "500"
+      }
+    },
+    {
+      "question": "Who uttered this quote in *The Blood of Olympus*? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 750<:drachma:511985789522018305> and 750<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/CKKv4cT.png",
+      "answer": "polybotes",
+      "correctResponse": "answered the question correctly! They received 750<:drachma:511985789522018305> and 750<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "750"
+      },
+      "exp": {
+        "$numberInt": "750"
+      }
+    },
+    {
+      "question": "Who uttered this quote in *The Demigod Diaries*? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 1250<:drachma:511985789522018305> and 1250<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/IOQH7Aa.png",
+      "answer": "cacus",
+      "correctResponse": "answered the question correctly! They received 1250<:drachma:511985789522018305> and 1250<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "1250"
+      },
+      "exp": {
+        "$numberInt": "1250"
+      }
+    },
+    {
+      "question": "Who uttered this quote in *The Demigod Diaries*? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 1500<:drachma:511985789522018305> and 1500<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/rPCc4kG.png",
+      "answer": "halcyon green",
+      "correctResponse": "answered the question correctly! They received 1500<:drachma:511985789522018305> and 1500<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer their full name",
+      "drachma": {
+        "$numberInt": "1500"
+      },
+      "exp": {
+        "$numberInt": "1500"
+      }
+    },
+    {
+      "question": "Who uttered this quote in *The Mark of Athena*? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 800<:drachma:511985789522018305> and 800<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/9KwEJmZ.png",
+      "answer": "hagno",
+      "correctResponse": "answered the question correctly! They received 800<:drachma:511985789522018305> and 800<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "800"
+      },
+      "exp": {
+        "$numberInt": "800"
+      }
+    },
+    {
+      "question": "Who uttered this quote in *The Mark of Athena*? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 800<:drachma:511985789522018305> and 800<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/2Wpu3fK.png",
+      "answer": "otis",
+      "correctResponse": "answered the question correctly! They received 800<:drachma:511985789522018305> and 800<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "800"
+      },
+      "exp": {
+        "$numberInt": "800"
+      }
+    },
+    {
+      "question": "Who uttered this quote in *The Mark of Athena*? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 300<:drachma:511985789522018305> and 300<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/t9tgIbH.png",
+      "answer": "frank zhang",
+      "correctResponse": "answered the question correctly! They received 300<:drachma:511985789522018305> and 300<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer their full name",
+      "drachma": {
+        "$numberInt": "300"
+      },
+      "exp": {
+        "$numberInt": "300"
+      }
+    },
+    {
+      "question": "Who uttered this quote in *The Battle of the Labyrinth*? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/WPANmIi.png",
+      "answer": "antaeus",
+      "correctResponse": "answered the question correctly! They received 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect!",
+      "drachma": {
+        "$numberInt": "500"
+      },
+      "exp": {
+        "$numberInt": "500"
+      }
+    },
+    {
+      "question": "Who uttered this quote in *The Hidden Oracle*? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 900<:drachma:511985789522018305> and 900<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/b5g2f73.png",
+      "answer": "cade",
+      "correctResponse": "answered the question correctly! They received 900<:drachma:511985789522018305> and 900<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "900"
+      },
+      "exp": {
+        "$numberInt": "900"
+      }
+    },
+    {
+      "question": "Who uttered this quote in *The Sword of Summer*? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/7vNJsIq.png",
+      "answer": "magnus chase",
+      "correctResponse": "answered the question correctly! They received 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer their full name",
+      "drachma": {
+        "$numberInt": "500"
+      },
+      "exp": {
+        "$numberInt": "500"
+      }
+    },
+    {
+      "question": "Who uttered this quote in *The Sword of Summer*? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/orXmmLh.png",
+      "answer": "magnus chase",
+      "correctResponse": "answered the question correctly! They received 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer their full name",
+      "drachma": {
+        "$numberInt": "500"
+      },
+      "exp": {
+        "$numberInt": "500"
+      }
+    },
+    {
+      "question": "Who uttered this quote in *The Mark of Athena*? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 600<:drachma:511985789522018305> and 600<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/5NetXmi.png",
+      "answer": "frank zhang",
+      "correctResponse": "answered the question correctly! They received 600<:drachma:511985789522018305> and 600<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer their full name",
+      "drachma": {
+        "$numberInt": "800"
+      },
+      "exp": {
+        "$numberInt": "800"
+      }
+    },
+    {
+      "question": "Who uttered this quote in *The Demigod Diaries*? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 800<:drachma:511985789522018305> and 800<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/jQ5ClOw.png",
+      "answer": "piper mclean",
+      "correctResponse": "answered the question correctly! They received 800<:drachma:511985789522018305> and 800<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer their full name",
+      "drachma": {
+        "$numberInt": "800"
+      },
+      "exp": {
+        "$numberInt": "800"
+      }
+    },
+    {
+      "question": "Who uttered this quote in *The Battle of the Labyrinth*? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 800<:drachma:511985789522018305> and 800<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/XSxQcAY.png",
+      "answer": "eurytion",
+      "correctResponse": "answered the question correctly! They received 800<:drachma:511985789522018305> and 800<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect!",
+      "drachma": {
+        "$numberInt": "800"
+      },
+      "exp": {
+        "$numberInt": "800"
+      }
+    },
+    {
+      "question": "Who uttered this quote in *The Lightning Thief*? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/ngxxsHX.png",
+      "answer": "annabeth chase",
+      "correctResponse": "answered the question correctly! They received 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer their full name",
+      "drachma": {
+        "$numberInt": "500"
+      },
+      "exp": {
+        "$numberInt": "500"
+      }
+    },
+    {
+      "question": "Who uttered this quote in *The Mark of Athena*? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 700<:drachma:511985789522018305> and 700<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/jCtQcxt.png",
+      "answer": "leo valdez",
+      "correctResponse": "answered the question correctly! They received 700<:drachma:511985789522018305> and 700<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer their full name",
+      "drachma": {
+        "$numberInt": "700"
+      },
+      "exp": {
+        "$numberInt": "700"
+      }
+    },
+    {
+      "question": "Who uttered this quote in *The Mark of Athena*? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 800<:drachma:511985789522018305> and 800<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/PTTAzGt.png",
+      "answer": "percy jackson",
+      "correctResponse": "answered the question correctly! They received 800<:drachma:511985789522018305> and 800<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer their full name",
+      "drachma": {
+        "$numberInt": "800"
+      },
+      "exp": {
+        "$numberInt": "800"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 300<:drachma:511985789522018305> and 300<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/SWphRoj.jpg",
+      "answer": "lityerses",
+      "correctResponse": "answered the question correctly! They received 300<:drachma:511985789522018305> and 300<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "300"
+      },
+      "exp": {
+        "$numberInt": "300"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 300<:drachma:511985789522018305> and 300<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/G2y1R3M.png",
+      "answer": "lucius tarquinius superbus",
+      "correctResponse": "answered the question correctly! They received 300<:drachma:511985789522018305> and 300<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer his full name",
+      "drachma": {
+        "$numberInt": "300"
+      },
+      "exp": {
+        "$numberInt": "300"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 300<:drachma:511985789522018305> and 300<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/wu434KS.png",
+      "answer": "crest",
+      "correctResponse": "answered the question correctly! They received 300<:drachma:511985789522018305> and 300<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "300"
+      },
+      "exp": {
+        "$numberInt": "300"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/H7GMXTk.png",
+      "answer": "set",
+      "correctResponse": "answered the question correctly! They received 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "250"
+      },
+      "exp": {
+        "$numberInt": "250"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 350<:drachma:511985789522018305> and 350<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/pDCrsls.jpg",
+      "answer": "kayla knowles",
+      "correctResponse": "answered the question correctly! They received 350<:drachma:511985789522018305> and 350<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer her full name",
+      "drachma": {
+        "$numberInt": "350"
+      },
+      "exp": {
+        "$numberInt": "350"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 350<:drachma:511985789522018305> and 350<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/8Kjhd5P.jpg",
+      "answer": "austin lake",
+      "correctResponse": "answered the question correctly! They received 350<:drachma:511985789522018305> and 350<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer his full name",
+      "drachma": {
+        "$numberInt": "350"
+      },
+      "exp": {
+        "$numberInt": "350"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 350<:drachma:511985789522018305> and 350<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/LouybZC.jpg",
+      "answer": "harley",
+      "correctResponse": "answered the question correctly! They received 350<:drachma:511985789522018305> and 350<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "350"
+      },
+      "exp": {
+        "$numberInt": "350"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 350<:drachma:511985789522018305> and 350<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/DdvmatY.jpg",
+      "answer": "ella",
+      "correctResponse": "answered the question correctly! They received 350<:drachma:511985789522018305> and 350<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "350"
+      },
+      "exp": {
+        "$numberInt": "350"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 450<:drachma:511985789522018305> and 450<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/dlKpyuO.jpg",
+      "answer": "herophile",
+      "correctResponse": "answered the question correctly! They received 450<:drachma:511985789522018305> and 450<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "450"
+      },
+      "exp": {
+        "$numberInt": "450"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 350<:drachma:511985789522018305> and 350<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/W3rg1Ik.jpg",
+      "answer": "medea",
+      "correctResponse": "answered the question correctly! They received 350<:drachma:511985789522018305> and 350<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "350"
+      },
+      "exp": {
+        "$numberInt": "350"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 450<:drachma:511985789522018305> and 450<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/PnjmLJU.jpg",
+      "answer": "agave",
+      "correctResponse": "answered the question correctly! They received 450<:drachma:511985789522018305> and 450<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer her full name",
+      "drachma": {
+        "$numberInt": "450"
+      },
+      "exp": {
+        "$numberInt": "450"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/asF8eNw.jpg",
+      "answer": "sally jackson",
+      "correctResponse": "answered the question correctly! They received 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer her full name",
+      "drachma": {
+        "$numberInt": "250"
+      },
+      "exp": {
+        "$numberInt": "250"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 350<:drachma:511985789522018305> and 350<:experience:602178294376431660>",
+      "imageURL": "https://i.stack.imgur.com/goGdv.jpg",
+      "answer": "don",
+      "correctResponse": "answered the question correctly! They received 350<:drachma:511985789522018305> and 350<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "350"
+      },
+      "exp": {
+        "$numberInt": "350"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 350<:drachma:511985789522018305> and 350<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/p7uTdPe.jpg",
+      "answer": "natalie chase",
+      "correctResponse": "answered the question correctly! They received 350<:drachma:511985789522018305> and 350<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer her full name",
+      "drachma": {
+        "$numberInt": "350"
+      },
+      "exp": {
+        "$numberInt": "350"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 350<:drachma:511985789522018305> and 350<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/q0UCTw9.jpg",
+      "answer": "prickly pear",
+      "correctResponse": "answered the question correctly! They received 350<:drachma:511985789522018305> and 350<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer her full name",
+      "drachma": {
+        "$numberInt": "350"
+      },
+      "exp": {
+        "$numberInt": "350"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 350<:drachma:511985789522018305> and 350<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/2vCfEiz.jpg",
+      "answer": "rhea",
+      "correctResponse": "answered the question correctly! They received 350<:drachma:511985789522018305> and 350<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "350"
+      },
+      "exp": {
+        "$numberInt": "350"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/e1DTtTn.jpg",
+      "answer": "mallory keen",
+      "correctResponse": "answered the question correctly! They received 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer her full name",
+      "drachma": {
+        "$numberInt": "200"
+      },
+      "exp": {
+        "$numberInt": "200"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/hUmTfCw.jpg",
+      "answer": "thomas jefferson jr.",
+      "correctResponse": "answered the question correctly! They received 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer his full name",
+      "drachma": {
+        "$numberInt": "200"
+      },
+      "exp": {
+        "$numberInt": "200"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/zshVWda.jpg",
+      "answer": "walt stone",
+      "correctResponse": "answered the question correctly! They received 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer his full name",
+      "drachma": {
+        "$numberInt": "200"
+      },
+      "exp": {
+        "$numberInt": "200"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 300<:drachma:511985789522018305> and 300<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/um0JfHO.jpg",
+      "answer": "nero",
+      "correctResponse": "answered the question correctly! They received 300<:drachma:511985789522018305> and 300<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "300"
+      },
+      "exp": {
+        "$numberInt": "300"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 400<:drachma:511985789522018305> and 400<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/1PPwW6a.jpg",
+      "answer": "paolo montes",
+      "correctResponse": "answered the question correctly! They received 400<:drachma:511985789522018305> and 400<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer his full name",
+      "drachma": {
+        "$numberInt": "400"
+      },
+      "exp": {
+        "$numberInt": "400"
+      }
+    },
+    {
+      "question": "What is this weapon? Guess it's name by typing `/guess [answer]`. The first person to guess correctly will receive 300<:drachma:511985789522018305> and 300<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/AXdziUC.jpg",
+      "answer": "sumarbrander",
+      "correctResponse": "answered the question correctly! They received 300<:drachma:511985789522018305> and 300<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer his full name",
+      "drachma": {
+        "$numberInt": "300"
+      },
+      "exp": {
+        "$numberInt": "300"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/Hofco1x.jpg",
+      "answer": "poseidon",
+      "correctResponse": "answered the question correctly! They received 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "250"
+      },
+      "exp": {
+        "$numberInt": "250"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/zqh823H.jpg",
+      "answer": "ra",
+      "correctResponse": "answered the question correctly! They received 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "250"
+      },
+      "exp": {
+        "$numberInt": "250"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/Ay2R4G9.jpg",
+      "answer": "rachel elizabeth dare",
+      "correctResponse": "answered the question correctly! They received 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer her full name",
+      "drachma": {
+        "$numberInt": "250"
+      },
+      "exp": {
+        "$numberInt": "250"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/zWCL1TJ.jpg",
+      "answer": "samirah al-abbas",
+      "correctResponse": "answered the question correctly! They received 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer her full name",
+      "drachma": {
+        "$numberInt": "250"
+      },
+      "exp": {
+        "$numberInt": "250"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/xX1GjFn.jpg",
+      "answer": "thor",
+      "correctResponse": "answered the question correctly! They received 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "250"
+      },
+      "exp": {
+        "$numberInt": "250"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/VMeDkIp.jpg",
+      "answer": "thoth",
+      "correctResponse": "answered the question correctly! They received 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "250"
+      },
+      "exp": {
+        "$numberInt": "250"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/RWliHjZ.jpg",
+      "answer": "zia rashid",
+      "correctResponse": "answered the question correctly! They received 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer her full name",
+      "drachma": {
+        "$numberInt": "200"
+      },
+      "exp": {
+        "$numberInt": "200"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/nq0GlRK.jpg",
+      "answer": "zoe nightshade",
+      "correctResponse": "answered the question correctly! They received 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer her full name",
+      "drachma": {
+        "$numberInt": "250"
+      },
+      "exp": {
+        "$numberInt": "250"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/ZrUORHB.png",
+      "answer": "isis",
+      "correctResponse": "answered the question correctly! They received 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "250"
+      },
+      "exp": {
+        "$numberInt": "250"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/mCyCZET.jpg",
+      "answer": "juniper",
+      "correctResponse": "answered the question correctly! They received 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "250"
+      },
+      "exp": {
+        "$numberInt": "250"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/FkWU4xD.jpg",
+      "answer": "loki",
+      "correctResponse": "answered the question correctly! They received 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "250"
+      },
+      "exp": {
+        "$numberInt": "250"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/cWCjE0y.jpg",
+      "answer": "mellie",
+      "correctResponse": "answered the question correctly! They received 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer her full name (Dont name the baby lul)",
+      "drachma": {
+        "$numberInt": "250"
+      },
+      "exp": {
+        "$numberInt": "250"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/TafisVs.jpg",
+      "answer": "peaches",
+      "correctResponse": "answered the question correctly! They received 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer his full name",
+      "drachma": {
+        "$numberInt": "250"
+      },
+      "exp": {
+        "$numberInt": "250"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/Ny3utjF.jpg",
+      "answer": "jason grace",
+      "correctResponse": "answered the question correctly! They received 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer his full name",
+      "drachma": {
+        "$numberInt": "200"
+      },
+      "exp": {
+        "$numberInt": "200"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/AimuAOp.jpg",
+      "answer": "thalia grace",
+      "correctResponse": "answered the question correctly! They received 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer her full name",
+      "drachma": {
+        "$numberInt": "200"
+      },
+      "exp": {
+        "$numberInt": "200"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 750<:drachma:511985789522018305> and 750<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/MYjDcvo.jpg",
+      "answer": "leo valdez",
+      "correctResponse": "answered the question correctly! They received 750<:drachma:511985789522018305> and 750<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer his full name (and think extra carefully)",
+      "drachma": {
+        "$numberInt": "750"
+      },
+      "exp": {
+        "$numberInt": "750"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/vbwVBtZ.jpg",
+      "answer": "luke castellan",
+      "correctResponse": "answered the question correctly! They received 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer his full name",
+      "drachma": {
+        "$numberInt": "200"
+      },
+      "exp": {
+        "$numberInt": "200"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/tRUd7H5.jpg",
+      "answer": "magnus chase",
+      "correctResponse": "answered the question correctly! They received 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer his full name",
+      "drachma": {
+        "$numberInt": "200"
+      },
+      "exp": {
+        "$numberInt": "200"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 1500<:drachma:511985789522018305> and 1500<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/6sKQOdU.jpg",
+      "answer": "margaret mccaffrey",
+      "correctResponse": "answered the question correctly! They received 1500<:drachma:511985789522018305> and 1500<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer her full name (and think extra carefully)",
+      "drachma": {
+        "$numberInt": "1500"
+      },
+      "exp": {
+        "$numberInt": "1500"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/VXWwIP5.jpg",
+      "answer": "nico di angelo",
+      "correctResponse": "answered the question correctly! They received 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer his full name",
+      "drachma": {
+        "$numberInt": "200"
+      },
+      "exp": {
+        "$numberInt": "200"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/yAUyg3U.jpg",
+      "answer": "octavian",
+      "correctResponse": "answered the question correctly! They received 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "200"
+      },
+      "exp": {
+        "$numberInt": "200"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/mWUjbjL.jpg",
+      "answer": "percy jackson",
+      "correctResponse": "answered the question correctly! They received 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer his full name",
+      "drachma": {
+        "$numberInt": "200"
+      },
+      "exp": {
+        "$numberInt": "200"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/upxLZ1E.jpg",
+      "answer": "piper mclean",
+      "correctResponse": "answered the question correctly! They received 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer her full name",
+      "drachma": {
+        "$numberInt": "200"
+      },
+      "exp": {
+        "$numberInt": "200"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/Uym9OHq.jpg",
+      "answer": "reyna avila ramirez-arellano",
+      "correctResponse": "answered the question correctly! They received 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer her full name",
+      "drachma": {
+        "$numberInt": "200"
+      },
+      "exp": {
+        "$numberInt": "200"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/vh9TVj8.jpg",
+      "answer": "sadie kane",
+      "correctResponse": "answered the question correctly! They received 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer her full name",
+      "drachma": {
+        "$numberInt": "200"
+      },
+      "exp": {
+        "$numberInt": "200"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/wV5wxNJ.jpg",
+      "answer": "silena beauregard",
+      "correctResponse": "answered the question correctly! They received 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer her full name",
+      "drachma": {
+        "$numberInt": "200"
+      },
+      "exp": {
+        "$numberInt": "200"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/i223CWj.jpg",
+      "answer": "tyson",
+      "correctResponse": "answered the question correctly! They received 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "200"
+      },
+      "exp": {
+        "$numberInt": "200"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/FDxPDqy.jpg",
+      "answer": "will solace",
+      "correctResponse": "answered the question correctly! They received 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer his full name",
+      "drachma": {
+        "$numberInt": "200"
+      },
+      "exp": {
+        "$numberInt": "200"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 400<:drachma:511985789522018305> and 400<:experience:602178294376431660>",
+      "imageURL": "https://i.stack.imgur.com/ajsbO.png",
+      "answer": "agamethus",
+      "correctResponse": "answered the question correctly! They received 400<:drachma:511985789522018305> and 400<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "400"
+      },
+      "exp": {
+        "$numberInt": "400"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>",
+      "imageURL": "https://i.stack.imgur.com/hm1SO.jpg",
+      "answer": "alex fierro",
+      "correctResponse": "answered the question correctly! They received 400<:drachma:511985789522018305> and 400<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer their full name",
+      "drachma": {
+        "$numberInt": "200"
+      },
+      "exp": {
+        "$numberInt": "200"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>",
+      "imageURL": "https://i.stack.imgur.com/13lNA.jpg",
+      "answer": "annabeth chase",
+      "correctResponse": "answered the question correctly! They received 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer her full name",
+      "drachma": {
+        "$numberInt": "200"
+      },
+      "exp": {
+        "$numberInt": "200"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/C4RlAHs.jpg",
+      "answer": "aphrodite",
+      "correctResponse": "answered the question correctly! They received 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "250"
+      },
+      "exp": {
+        "$numberInt": "250"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/mWGaDOY.jpg",
+      "answer": "apollo",
+      "correctResponse": "answered the question correctly! They received 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "250"
+      },
+      "exp": {
+        "$numberInt": "250"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 350<:drachma:511985789522018305> and 350<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/81MVEtJ.jpg",
+      "answer": "arachne",
+      "correctResponse": "answered the question correctly! They received 350<:drachma:511985789522018305> and 350<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "350"
+      },
+      "exp": {
+        "$numberInt": "350"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/9tHSKqZ.jpg",
+      "answer": "ares",
+      "correctResponse": "answered the question correctly! They received 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "250"
+      },
+      "exp": {
+        "$numberInt": "250"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/UszY3um.jpg",
+      "answer": "athena",
+      "correctResponse": "answered the question correctly! They received 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "250"
+      },
+      "exp": {
+        "$numberInt": "250"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 300<:drachma:511985789522018305> and 300<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/CdBcWcp.jpg",
+      "answer": "bast",
+      "correctResponse": "answered the question correctly! They received 300<:drachma:511985789522018305> and 300<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "300"
+      },
+      "exp": {
+        "$numberInt": "300"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 300<:drachma:511985789522018305> and 300<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/zc9ZtmK.jpg",
+      "answer": "bes",
+      "correctResponse": "answered the question correctly! They received 300<:drachma:511985789522018305> and 300<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "300"
+      },
+      "exp": {
+        "$numberInt": "300"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/pyL4zqe.jpg",
+      "answer": "bianca di angelo",
+      "correctResponse": "answered the question correctly! They received 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer her full name",
+      "drachma": {
+        "$numberInt": "250"
+      },
+      "exp": {
+        "$numberInt": "250"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 450<:drachma:511985789522018305> and 450<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/XYhNepw.jpg",
+      "answer": "aloe vera",
+      "correctResponse": "answered the question correctly! They received 450<:drachma:511985789522018305> and 450<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer her full name",
+      "drachma": {
+        "$numberInt": "450"
+      },
+      "exp": {
+        "$numberInt": "450"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 400<:drachma:511985789522018305> and 400<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/OOtqG1L.jpg",
+      "answer": "anubis",
+      "correctResponse": "answered the question correctly! They received 400<:drachma:511985789522018305> and 400<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "400"
+      },
+      "exp": {
+        "$numberInt": "400"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 450<:drachma:511985789522018305> and 450<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/tDFBtws.jpg",
+      "answer": "blitzen",
+      "correctResponse": "answered the question correctly! They received 450<:drachma:511985789522018305> and 450<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "450"
+      },
+      "exp": {
+        "$numberInt": "450"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 400<:drachma:511985789522018305> and 400<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/LB45E31.jpg",
+      "answer": "britomartis",
+      "correctResponse": "answered the question correctly! They received 400<:drachma:511985789522018305> and 400<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "400"
+      },
+      "exp": {
+        "$numberInt": "400"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 350<:drachma:511985789522018305> and 350<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/Fr9e9Ct.jpg",
+      "answer": "calypso",
+      "correctResponse": "answered the question correctly! They received 350<:drachma:511985789522018305> and 350<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "350"
+      },
+      "exp": {
+        "$numberInt": "350"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/uvhdUmL.jpg",
+      "answer": "carter kane",
+      "correctResponse": "answered the question correctly! They received 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer his full name",
+      "drachma": {
+        "$numberInt": "200"
+      },
+      "exp": {
+        "$numberInt": "200"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/amjQH9V.jpg",
+      "answer": "chiron",
+      "correctResponse": "answered the question correctly! They received 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "200"
+      },
+      "exp": {
+        "$numberInt": "200"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/YmeGfGK.jpg",
+      "answer": "clarisse la rue",
+      "correctResponse": "answered the question correctly! They received 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer her full name",
+      "drachma": {
+        "$numberInt": "200"
+      },
+      "exp": {
+        "$numberInt": "200"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 400<:drachma:511985789522018305> and 400<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/dgPzvgO.png",
+      "answer": "charles beckendorf",
+      "correctResponse": "answered the question correctly! They received 400<:drachma:511985789522018305> and 400<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer his full name",
+      "drachma": {
+        "$numberInt": "400"
+      },
+      "exp": {
+        "$numberInt": "400"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/TZomc48.jpg",
+      "answer": "gleeson hedge",
+      "correctResponse": "answered the question correctly! They received 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "200"
+      },
+      "exp": {
+        "$numberInt": "200"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 300<:drachma:511985789522018305> and 300<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/ok0Ndh8.jpg",
+      "answer": "commodus",
+      "correctResponse": "answered the question correctly! They received 300<:drachma:511985789522018305> and 300<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "300"
+      },
+      "exp": {
+        "$numberInt": "300"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 300<:drachma:511985789522018305> and 300<:experience:602178294376431660>",
+      "imageURL": "https://i.stack.imgur.com/HI6Tw.jpg",
+      "answer": "caligula",
+      "correctResponse": "answered the question correctly! They received 300<:drachma:511985789522018305> and 300<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "300"
+      },
+      "exp": {
+        "$numberInt": "300"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 350<:drachma:511985789522018305> and 350<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/WDoC3zI.jpg",
+      "answer": "daphne",
+      "correctResponse": "answered the question correctly! They received 350<:drachma:511985789522018305> and 350<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "350"
+      },
+      "exp": {
+        "$numberInt": "350"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/EH8fGpv.jpg",
+      "answer": "demeter",
+      "correctResponse": "answered the question correctly! They received 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "200"
+      },
+      "exp": {
+        "$numberInt": "200"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 400<:drachma:511985789522018305> and 400<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/bREgUFQ.jpg",
+      "answer": "hemithea",
+      "correctResponse": "answered the question correctly! They received 400<:drachma:511985789522018305> and 400<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "400"
+      },
+      "exp": {
+        "$numberInt": "400"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/YkddgwH.jpg",
+      "answer": "ethan nakamura",
+      "correctResponse": "answered the question correctly! They received 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You must answer his full name",
+      "drachma": {
+        "$numberInt": "250"
+      },
+      "exp": {
+        "$numberInt": "250"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/hDg5mQs.jpg",
+      "answer": "frey",
+      "correctResponse": "answered the question correctly! They received 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "200"
+      },
+      "exp": {
+        "$numberInt": "200"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 450<:drachma:511985789522018305> and 450<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/fql1Vje.jpg",
+      "answer": "georgina",
+      "correctResponse": "answered the question correctly! They received 450<:drachma:511985789522018305> and 450<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "450"
+      },
+      "exp": {
+        "$numberInt": "450"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive  450<:drachma:511985789522018305> and 450<:experience:602178294376431660>",
+      "imageURL": "https://i.stack.imgur.com/WJPYA.jpg",
+      "answer": "lavinia asimov",
+      "correctResponse": "answered the question correctly! They received 450<:drachma:511985789522018305> and 450<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You must answer her full name",
+      "drachma": {
+        "$numberInt": "450"
+      },
+      "exp": {
+        "$numberInt": "450"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive  200<:drachma:511985789522018305> and 200<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/cUdpyYT.jpg",
+      "answer": "grover underwood",
+      "correctResponse": "answered the question correctly! They received 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You must answer his full name",
+      "drachma": {
+        "$numberInt": "200"
+      },
+      "exp": {
+        "$numberInt": "200"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 350<:drachma:511985789522018305> and 350<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/USDTMLY.jpg",
+      "answer": "gunilla",
+      "correctResponse": "answered the question correctly! They received 350<:drachma:511985789522018305> and 350<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "350"
+      },
+      "exp": {
+        "$numberInt": "350"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/F8Qf6EL.jpg",
+      "answer": "hazel levesque",
+      "correctResponse": "answered the question correctly! They received 200<:drachma:511985789522018305> and 200<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You must answer her full name",
+      "drachma": {
+        "$numberInt": "200"
+      },
+      "exp": {
+        "$numberInt": "200"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 350<:drachma:511985789522018305> and 350<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/xriFzlA.jpg",
+      "answer": "hearthstone",
+      "correctResponse": "answered the question correctly! They received 350<:drachma:511985789522018305> and 350<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "350"
+      },
+      "exp": {
+        "$numberInt": "350"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/5a0WGLr.jpg",
+      "answer": "hephaestus",
+      "correctResponse": "answered the question correctly! They received 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "250"
+      },
+      "exp": {
+        "$numberInt": "250"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/odYa5gR.jpg",
+      "answer": "hera",
+      "correctResponse": "answered the question correctly! They received 250<:drachma:511985789522018305> and 250<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "250"
+      },
+      "exp": {
+        "$numberInt": "250"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 300<:drachma:511985789522018305> and 300<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/nSD25d9.png",
+      "answer": "horus",
+      "correctResponse": "answered the question correctly! They received 300<:drachma:511985789522018305> and 300<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "300"
+      },
+      "exp": {
+        "$numberInt": "300"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 700<:drachma:511985789522018305> and 700<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/VUMt9vW.jpg",
+      "answer": "lester papadopoulos",
+      "correctResponse": "answered the question correctly! They received 700<:drachma:511985789522018305> and 700<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You must answer his full name",
+      "drachma": {
+        "$numberInt": "700"
+      },
+      "exp": {
+        "$numberInt": "700"
+      }
+    },
+    {
+      "question": "Who is this character? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>",
+      "imageURL": "https://i.imgur.com/qtRK5ua.jpg",
+      "answer": "hyacinthus",
+      "correctResponse": "answered the question correctly! They received 500<:drachma:511985789522018305> and 500<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect",
+      "drachma": {
+        "$numberInt": "500"
+      },
+      "exp": {
+        "$numberInt": "500"
+      }
+    },
+    {
+      "question": "Who uttered this quote in *The Lightning Thief*? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 2000<:drachma:511985789522018305> and 2000<:experience:602178294376431660>",
+      "imageURL": "https://i.stack.imgur.com/Z6XXV.png",
+      "answer": "nancy bobofit",
+      "correctResponse": "answered the question correctly! They received 2000<:drachma:511985789522018305> and 2000<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer their full name",
+      "drachma": {
+        "$numberInt": "2000"
+      },
+      "exp": {
+        "$numberInt": "2000"
+      }
+    },
+    {
+      "question": "Who uttered this quote in *The Sea of Monsters*? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 2000<:drachma:511985789522018305> and 2000<:experience:602178294376431660>",
+      "imageURL": "https://i.stack.imgur.com/vP8w3.png",
+      "answer": "matt sloan",
+      "correctResponse": "answered the question correctly! They received 2000<:drachma:511985789522018305> and 2000<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer their full name",
+      "drachma": {
+        "$numberInt": "2000"
+      },
+      "exp": {
+        "$numberInt": "2000"
+      }
+    },
+    {
+      "question": "Who uttered this quote in *The Titan's Curse*? Guess their name by typing `/guess [answer]`. The first person to guess correctly will receive 750<:drachma:511985789522018305> and 750<:experience:602178294376431660>",
+      "imageURL": "https://i.stack.imgur.com/maqKP.png",
+      "answer": "thalia grace",
+      "correctResponse": "answered the question correctly! They received 750<:drachma:511985789522018305> and 750<:experience:602178294376431660>!",
+      "wrongResponse": "Whoops! That's incorrect! Tip: You need to answer their full name",
+      "drachma": {
+        "$numberInt": "750"
+      },
+      "exp": {
+        "$numberInt": "750"
+      }
+    },
+    {
+      "question": "Help! Nico has been trapped by the giants into a pithos. He promises 200<:drachma:511985789522018305> to whoever rescues him. Find which pithos Nico is hidden in by typing `/guess [answer].`",
+      "imageURL": "https://cdn.discordapp.com/attachments/602174955420909589/602848927154307093/nico_compressed1.gif",
+      "answer": "b",
+      "correctResponse": "saved Nico! They received their 200<:drachma:511985789522018305>!",
+      "wrongResponse": "Whoops! Thats the wrong pithos",
+      "drachma": {
+        "$numberInt": "200"
+      },
+      "exp": {
+        "$numberInt": "0"
+      }
+    }
+  ]
+}
