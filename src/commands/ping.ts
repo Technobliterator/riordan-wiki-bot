@@ -6,7 +6,7 @@ export const data = new SlashCommandBuilder()
 
 export async function execute(interaction: CommandInteraction) {
   try {
-    await interaction.reply("BITE MY SHINY METAL ASS");
+    await interaction.reply("pong");
   } catch (error) {
     console.error("Error replying to ping command:", error);
   }

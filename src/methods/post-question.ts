@@ -1,11 +1,12 @@
+import { config } from "../config";
 import { Client, EmbedBuilder, Message, TextChannel } from "discord.js";
 import { Question } from "../types";
 
 export async function postQuestion(client: Client, question: Question): Promise<Message | undefined>  {
   try {
-    const channel_id = "1205018581427953697"; // TODO: SHOULD BE ABLE TO SET THIS...
+    const channel_id: string = config.CHANNEL_ID;
 
-    const channel: TextChannel | undefined = client.channels.cache.get("1205018581427953697") as TextChannel;
+    const channel: TextChannel | undefined = client.channels.cache.get(channel_id) as TextChannel;
 
     const post: EmbedBuilder = new EmbedBuilder()
       .setColor(0x0099FF)
