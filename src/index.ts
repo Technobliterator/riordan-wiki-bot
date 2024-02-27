@@ -1,4 +1,4 @@
-import { Client, Events, GatewayIntentBits, Message } from "discord.js";
+import { Client, CommandInteraction, Events, GatewayIntentBits, Guild, Interaction, Message } from "discord.js";
 import { config } from "./config";
 import { commands } from "./commands";
 import { deployCommands } from "./methods/deploy-commands";
@@ -6,31 +6,58 @@ import { postQuestion } from "./methods/post-question";
 import { chooseQuestion } from "./methods/choose-question";
 import { Question, QuestionPost } from "./types";
 
+// Initialize Discord client
 const client = new Client({
   intents: [GatewayIntentBits.Guilds, GatewayIntentBits.GuildMessages, GatewayIntentBits.DirectMessages],
 });
 
-let currentPost: QuestionPost = { question: undefined, message: undefined };
+// State variables
 let currentQuestion: Question = chooseQuestion();
 let currentQuestionAnswered: boolean = false;
+let currentQuestionPost: QuestionPost = { question: undefined, message: undefined };
 let interval = 60000;
 
-export function setQuestionAnswered() {
-  currentQuestionAnswered = true;
+// Event handlers
+
+client.once(Events.ClientReady, handleClientReady);
+client.on(Events.GuildCreate, handleGuildCreate);
+client.on(Events.InteractionCreate, handleInteractionCreate);
+
+// Main logic
+
+setInterval(postNewQuestionIfNeeded, interval);
+loginToDiscord();
+
+// Method definitions
+
+function handleClientReady(readyClient: Client) {
+  console.log(`Ready! Logged in as ${readyClient?.user?.tag}`);
+  deployCommandsForAllGuilds();
+  postInitialQuestion();
 }
 
-function updateCurrentPost(question: Question, message: Message | undefined) {
-  currentPost = {
-    question: question,
-    message: message
-  };
+async function handleGuildCreate(guild: Guild) {
+  await deployCommands({ guildId: guild.id, question: currentQuestion });
+  postInitialQuestion();
 }
 
-function setRandomInterval() {
-  interval = Math.floor(Math.random() * (10 - 1 + 1) + 1) * 60000;
+async function handleInteractionCreate(interaction: Interaction) {
+  if (!interaction.isCommand()) {
+    return;
+  }
+
+  if (interaction instanceof CommandInteraction) {
+    const commandInteraction = interaction as CommandInteraction;
+    const { commandName } = commandInteraction;
+
+    // Check if the command exists and execute it
+    if (commands[commandName as keyof typeof commands]) {
+      commands[commandName as keyof typeof commands].execute(commandInteraction, currentQuestionPost, currentQuestionAnswered);
+    }
+  }
 }
 
-setInterval(() => {
+function postNewQuestionIfNeeded() {
   if (currentQuestionAnswered) {
     currentQuestion = chooseQuestion();
     currentQuestionAnswered = false;
@@ -39,32 +66,32 @@ setInterval(() => {
     });
     setRandomInterval();
   }
-}, interval);
+}
 
-client.once(Events.ClientReady, async readyClient => {
-  console.log(`Ready! Logged in as ${readyClient.user.tag}`);
+function setRandomInterval() {
+  interval = Math.floor(Math.random() * (10 - 1 + 1) + 1) * 60000;
+}
+
+async function deployCommandsForAllGuilds() {
   const guilds = await client.guilds.fetch();
   for (const guild of guilds.values()) {
     await deployCommands({ guildId: guild.id, question: currentQuestion });
-    const postedQuestion: Message | undefined = await postQuestion(client, currentQuestion);
-    updateCurrentPost(currentQuestion, postedQuestion);
   }
-});
+}
 
-client.on(Events.GuildCreate, async (guild) => {
-  await deployCommands({ guildId: guild.id, question: currentQuestion });
+async function postInitialQuestion() {
   const postedQuestion: Message | undefined = await postQuestion(client, currentQuestion);
-  updateCurrentPost(currentQuestion, postedQuestion);
-});
+  updateCurrentQuestionPost(currentQuestion, postedQuestion);
+}
 
-client.on(Events.InteractionCreate, async (interaction) => {
-  if (!interaction.isCommand()) {
-    return;
-  }
-  const { commandName } = interaction;
-  if (commands[commandName as keyof typeof commands]) {
-    commands[commandName as keyof typeof commands].execute(interaction, currentPost, currentQuestionAnswered);
-  }
-});
+export function setQuestionAnswered() {
+  currentQuestionAnswered = true;
+}
 
-client.login(config.DISCORD_TOKEN);
+function updateCurrentQuestionPost(question: Question, message: Message | undefined) {
+  currentQuestionPost = { question: question, message: message };
+}
+
+function loginToDiscord() {
+  client.login(config.DISCORD_TOKEN);
+}

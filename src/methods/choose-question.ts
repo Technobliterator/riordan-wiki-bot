@@ -3,5 +3,5 @@ import { Question } from "../types";
 
 export function chooseQuestion(): Question {
   const randomIndex: number = Math.floor(Math.random() * questionList.list.length);
-  return questionList.list[randomIndex];
+  return questionList.list[0];
 }

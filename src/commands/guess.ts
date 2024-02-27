@@ -1,4 +1,4 @@
-import { CommandInteraction, Message, SlashCommandBuilder, User } from "discord.js";
+import { CommandInteraction, InteractionReplyOptions, Message, SlashCommandBuilder, User } from "discord.js";
 import { Question, QuestionPost } from "../types";
 import { setQuestionAnswered } from "..";
 
@@ -27,14 +27,7 @@ export async function execute(interaction: CommandInteraction, questionPost: Que
         await interaction.reply("The current question was already answered! Wait for the next one.");
       } else {
         if (answer == question.answer) {
-
-          setQuestionAnswered();
-          await interaction.reply(user.username + " " + question.correctResponse);
-
-          setTimeout(async () => {
-            await interaction.deleteReply();
-            await questionPost.message?.delete(); 
-          }, 60000);
+          await handleCorrectAnswer(interaction, user, question, questionPost);
         } else {
           await interaction.reply(question.wrongResponse);
         }
@@ -42,5 +35,23 @@ export async function execute(interaction: CommandInteraction, questionPost: Que
     }
   } catch (error) {
     console.error("Error replying to guess command:", error);
+  }
+}
+
+async function handleCorrectAnswer(interaction: CommandInteraction, user: User, question: Question, questionPost: QuestionPost) {
+  try {
+    setQuestionAnswered();
+    const reply: string = user.username + " " + question.correctResponse;
+    const replyOptions: InteractionReplyOptions = { content: reply };
+    await interaction.reply(replyOptions);
+
+    setTimeout(async () => {
+      await interaction.deleteReply();
+      if (questionPost.message) {
+        await questionPost.message.delete();
+      }
+    }, 60000);
+  } catch (error) {
+    console.error("Error handling correct answer:", error);
   }
 }
