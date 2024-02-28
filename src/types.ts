@@ -1,8 +1,25 @@
 import { Message } from "discord.js";
 
+export type Drachma = {
+  $numberInt: string
+}
+
+export type Exp = {
+  $numberInt: string
+}
+
+type Color = {
+  $numberInt: string
+}
+
 export type QuestionsList = {
   _id: string
   list: [Question]
+}
+
+export type QuestionPost = {
+  message: Message | undefined
+  question: Question | undefined
 }
 
 export type Question = {
@@ -15,15 +32,18 @@ export type Question = {
   exp: Exp
 }
 
-export type QuestionPost = {
-  message: Message | undefined
-  question: Question | undefined
+export type Sticker = {
+  name: string
+  emoji: string
+  color: Color
+  artist: string
+  pageUrl: string
+  url: string
 }
 
-type Drachma = {
-  $numberInt: string
-}
-
-type Exp = {
-  $numberInt: string
+export type User = {
+  id: string
+  drachma: Drachma
+  exp: Exp
+  stickers: Sticker[]
 }
