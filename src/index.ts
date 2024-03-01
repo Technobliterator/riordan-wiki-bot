@@ -5,6 +5,7 @@ import { deployCommands } from "./methods/deploy-commands";
 import { postQuestion } from "./methods/post-question";
 import { chooseQuestion } from "./methods/choose-question";
 import { Question, QuestionPost } from "./types";
+import { MongoClient } from 'mongodb';
 
 // Initialize Discord client
 const client = new Client({
@@ -27,6 +28,7 @@ client.on(Events.InteractionCreate, handleInteractionCreate);
 
 setInterval(postNewQuestionIfNeeded, interval);
 loginToDiscord();
+connectToDatabase();
 
 // Method definitions
 
@@ -94,4 +96,18 @@ function updateCurrentQuestionPost(question: Question, message: Message | undefi
 
 function loginToDiscord() {
   client.login(config.DISCORD_TOKEN);
+}
+
+
+export async function connectToDatabase() {
+  try {
+    const uri = config.DATABASE_URL;
+    const client: MongoClient = new MongoClient(uri);
+    await client.connect();
+    console.log('Connected to MongoDB');
+    return client;
+  } catch (error) {
+    console.error('Error connecting to MongoDB:', error);
+    throw error;
+  }
 }

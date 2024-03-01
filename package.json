@@ -12,9 +12,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@types/mongoose": "^5.11.97",
     "@types/node": "^20.11.17",
     "discord.js": "^14.14.1",
-    "dotenv": "^16.4.1"
+    "dotenv": "^16.4.1",
+    "mongodb": "^6.4.0",
+    "mongoose": "^8.2.0"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^6.21.0",

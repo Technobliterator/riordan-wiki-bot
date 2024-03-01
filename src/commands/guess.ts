@@ -1,7 +1,8 @@
 import { config } from "../config";
 import { CommandInteraction, InteractionReplyOptions, SlashCommandBuilder, User } from "discord.js";
-import { Question, QuestionPost } from "../types";
-import { setQuestionAnswered } from "..";
+import { Drachma, Exp, Question, QuestionPost } from "../types";
+import { connectToDatabase, setQuestionAnswered } from "..";
+import { ObjectId } from "mongodb";
 
 const allowedChannelId: string = config.CHANNEL_ID;
 
@@ -70,7 +71,25 @@ async function handleCorrectAnswer(interaction: CommandInteraction, user: User, 
 }
 
 async function updateExpAndDrachma(userId: string, question: Question) {
-  let drachma: number = Number(question.drachma.$numberInt);
-  let exp: number = Number(question.exp.$numberInt);
-  console.log(userId + " guessed correctly; updates: drachma +" + drachma + "; exp +" + exp); // TODO: update to a proper database for this
+  try {
+    const client = await connectToDatabase();
+
+    const database = client.db("rr_wiki_bot");
+    const collection = database.collection("rrusers");
+
+    const userIdObjectId = new ObjectId(userId);
+    const drachmaValue: number = parseInt(question.drachma.$numberInt);
+    const expValue: number = parseInt(question.exp.$numberInt);
+
+    await collection.updateOne(
+      { _id: userIdObjectId },
+      { $inc: { drachma: drachmaValue, exp: expValue } },
+      { upsert: true }
+    );
+
+    console.log(`${userId} guessed correctly; updates: drachma +${drachmaValue}; exp +${expValue}`);
+  } catch (error) {
+    console.error("Error updating exp and drachma:", error);
+    throw error;
+  }
 }
